@@ -1,9 +1,14 @@
 {
   "name": "an-api-skeleton",
+  "description": "A simple project structure for building APIs with Express",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Gabriel Monteiro Fernandes <mfgbriel92@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfgabriel92/an-api-skeleton.git"
+  },
   "scripts": {
     "dev": "nodemon src/server"
   },
